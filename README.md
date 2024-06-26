@@ -13,3 +13,5 @@
  - Clone [here](https://github.com/fabricantejerome/backend-development-for-beginners.git)
  - Run `npm install`
  - Run the project `npm run start`
+
+## 🗎 PDF Guide [here](https://fabricantejerome.gumroad.com/l/hbwhle)
